@@ -1,0 +1,7 @@
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\bin\Debug\Kaytee_Townlain_Unit7_IT481.exe.config
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\bin\Debug\Kaytee_Townlain_Unit7_IT481.exe
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\bin\Debug\Kaytee_Townlain_Unit7_IT481.pdb
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\obj\Debug\Kaytee_Townlain_Unit7_IT481.csproj.AssemblyReference.cache
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\obj\Debug\Kaytee_Townlain_Unit7_IT481.csproj.CoreCompileInputs.cache
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\obj\Debug\Kaytee_Townlain_Unit7_IT481.exe
+C:\Users\kayte\Desktop\purdue\Term 14\Kaytee_Townlain_Unit7_IT481\obj\Debug\Kaytee_Townlain_Unit7_IT481.pdb
